@@ -1,3 +1,7 @@
 first commit
 second commit
+<<<<<<< HEAD
 5
+=======
+456
+>>>>>>> main
